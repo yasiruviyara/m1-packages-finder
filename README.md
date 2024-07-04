@@ -1,6 +1,11 @@
 #  *M1 Packages Finder* v0.1
 
+![How_to_Use_nvm_img_1-transformed](https://github.com/yasiruviyara/m1-packages-finder/assets/80908044/6196abaa-2d2c-4b77-882c-a96a71749270)
+
+
 ## <a href='/nvm-using/README.md'>1. How to Use nvm (Node Version Manager)</a>
+
+Youtube Video: <a href='https://youtu.be/jXxEH461gSM?si=ATvmZJHkJ98-TEMi'> How to Use nvm (Node Version Manager) | M1 Packages Finder</a>
 
 ### Install nvm
 
