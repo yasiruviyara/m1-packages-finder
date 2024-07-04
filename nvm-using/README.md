@@ -1,8 +1,6 @@
-#  *M1 Packages Finder* v0.1
+# How to Use nvm (Node Version Manager)
 
-## <a href='/nvm-using/README.md'>1. How to Use nvm (Node Version Manager)</a>
-
-### Install nvm
+## Install nvm
 
 <a href="https://github.com/nvm-sh/logos">
   <picture>
@@ -14,7 +12,7 @@
 ### Node Version Manager 
 ![Build Status](https://app.travis-ci.com/nvm-sh/nvm.svg?branch=master) 
 ![nvm version](https://img.shields.io/badge/version-v0.39.7-yellow.svg) 
-
+[![CII Best Practices](https://bestpractices.dev/projects/684/badge)](https://bestpractices.dev/projects/684)
 
 ## Download and run the nvm installation
 
@@ -67,3 +65,14 @@ After installation, you can switch to using a specific version of Node.js with
 ```bash
 nvm use (version number)
 ```
+
+
+
+
+
+
+
+
+
+
+
