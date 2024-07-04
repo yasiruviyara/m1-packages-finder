@@ -7,6 +7,10 @@
 
 Youtube Video: <a href='https://youtu.be/jXxEH461gSM?si=ATvmZJHkJ98-TEMi'> How to Use nvm (Node Version Manager) | M1 Packages Finder</a>
 
+<p>
+  Node Version Manager (nvm) is an essential tool for developers working with Node.js. It allows you to manage multiple versions of Node.js on a single machine, making it easier to switch between projects with different requirements. In this post, we'll guide you through the steps to install and use nvm on your vs code
+</p>
+
 ### Install nvm
 
 <a href="https://github.com/nvm-sh/logos">
