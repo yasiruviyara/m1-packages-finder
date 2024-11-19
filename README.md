@@ -95,6 +95,11 @@ MyComponent.propTypes = {
 
 ```
 
+## Fragment or Open/Close Tag Auto apply and Adding quickly  
+```
+<tag1><tag2>content</tag2></tag1>
+```
+
 ## <a href='/nvm-using/README.md'>1. How to Use nvm (Node Version Manager)</a>
 
 ### Install nvm
